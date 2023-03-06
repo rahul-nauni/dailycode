@@ -1,5 +1,6 @@
-'''Python program to calculate number of unique ways to climb N stairs
-    given that you can climb either 1 or 2 steps at a time
+'''
+uniqueSteps.py: Python program to calculate number of unique ways to climb N stairs
+given that you can climb either 1 or 2 steps at a time
 '''
 import numpy as np
 
